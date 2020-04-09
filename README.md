@@ -7,6 +7,11 @@
 Pizza topping favorability survey among British Adults in 2017<br/>
 YouGov Poll, Feb 26-28, 2017 (n=3683)<br/>
 
+<b>Links:</b><br/>
 Data: https://query.data.world/s/tan5cwzw7qocji4ulcen5udbeyuciw <br/>
 Data World: https://data.world/makeovermonday/2020w13-does-pineapple-belong-on-a-pizza <br/>
-YouGov Data Source: https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/document/7ordz029w2/InternalResults_170228_Pizza_W.pdf
+YouGov Data Source: https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/document/7ordz029w2/InternalResults_170228_Pizza_W.pdf <br/>
+
+<b>Resources: </b><br/>
+Cleveland Dot Plots: https://uc-r.github.io/cleveland-dot-plots <br/>
+ggplot2: https://ggplot2.tidyverse.org/reference/theme.html 
